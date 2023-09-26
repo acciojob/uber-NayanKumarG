@@ -1,8 +1,4 @@
 package com.driver.model;
-
-import lombok.*;
-import lombok.experimental.FieldDefaults;
-
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;
